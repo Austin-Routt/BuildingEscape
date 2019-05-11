@@ -10,3 +10,4 @@ BuildingEscape/Content/StarterContent/
 # VC Generated Files #
 ##########################
 *VC.db
+*.ipch
