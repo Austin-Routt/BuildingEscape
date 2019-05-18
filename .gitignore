@@ -5,9 +5,11 @@
 */DerivedDataCache
 */Intermediate
 */Saved
-BuildingEscape/Content/StarterContent/
+BuildingEscape/Content/StarterContent
+
 
 # VC Generated Files #
 ##########################
 *VC.db
 *.ipch
+*.suo
