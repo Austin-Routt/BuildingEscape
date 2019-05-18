@@ -41,8 +41,9 @@ private:
 	float DoorCloseDelay = 1.f;
 	float LastDoorOpenTime;
  
-	AActor* ActorThatOpens; //recall that pawn inherits from actor
+
 	AActor* Owner; 
 
-		
+	//Returns mass of actors in the trigger volume
+	float GetTotalMassOfActorsOnPlate();
 };
